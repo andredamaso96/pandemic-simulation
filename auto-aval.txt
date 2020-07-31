@@ -1,0 +1,21 @@
+Req E1.1
+Req E1.2
+Req E1.3
+Req E1.4
+Req E1.5
+Req E2.1
+Req E2.2
+Req E2.3
+Req E3
+Req E4
+Req E5
+Req E6
+
+Req NE1
+Req NE2 (sem probabilidade de contagio e probabilidade de intervalo)
+
+Classificação 12
+
+Foram gastas 50 horas fora de aulas
+
+André Dâmaso 15307
